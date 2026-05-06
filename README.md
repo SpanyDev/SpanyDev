@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:2563eb&text=Spany&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Spany&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 # 👋 Hey, I'm Spany
 
@@ -34,9 +34,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpanyDev&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=cbd5e1&icon_color=3b82f6&ring_color=3b82f6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SpanyDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpanyDev&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=cbd5e1" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpanyDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=SpanyDev&theme=transparent&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=cbd5e1&dates=94a3b8" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SpanyDev&theme=tokyonight&hide_border=true&background=00000000" />
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SpanyDev&bg_color=0d1117&color=3b82f6&line=2563eb&point=ffffff&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SpanyDev&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -67,7 +67,7 @@
 ```ts
 const spany = {
   code: ["JavaScript", "TypeScript", "Python"],
-  
+
   frontend: [
     "React",
     "Next.js",
@@ -90,3 +90,32 @@ const spany = {
 
   currentFocus: "Scalable & high-performance applications"
 };
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:spanyiletisim@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://discord.com/users/474903993362022420">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+<a href="https://github.com/SpanyDev">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0f172a" />
+
+</div>
