@@ -30,18 +30,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SpanyDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpanyDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -97,10 +85,6 @@ const spany = {
 # 🌐 Connect With Me
 
 <div align="center">
-
-<a href="mailto:spanyiletisim@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
 
 <a href="https://discord.com/users/474903993362022420">
   <img src="https://skillicons.dev/icons?i=discord" />
