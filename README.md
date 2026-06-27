@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Burak%20Dursun&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Burak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 # 👋 Hi, I'm Burak
 
