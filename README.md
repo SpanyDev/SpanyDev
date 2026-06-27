@@ -76,10 +76,6 @@ Building reliable web applications with JavaScript, TypeScript and Python.
 
 | Project | Description |
 |----------|-------------|
-| 🚁 UAV Dashboard | Modern drone mission dashboard built with Next.js |
-| 📊 Flight Log Analyzer | Analyze UAV telemetry and flight logs using Python |
-| 🧪 Test Automation Dashboard | Test management dashboard built with Node.js |
-| 🛒 Full Stack E-Commerce | Modern e-commerce application using Next.js |
 
 ---
 
@@ -133,12 +129,8 @@ const burak = {
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:official.animora@gmail.com">
+<a href="mailto:spanyries@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </div>
